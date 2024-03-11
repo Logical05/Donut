@@ -6,7 +6,7 @@
 C++ ASCII Donut with math description that I hope it will help you understand the mathematics behind spinning a donut better or faster
 
 ## Disclaimer
-I didn't invent the spinning donut, but [Andy Sloane](https://github.com/a1k0n/). I do spinning donut in its own style but with the same principles
+I didn't invent the spinning donut, but [Andy Sloane](https://github.com/a1k0n/). I took inspiration from him and recreated it in my own style using the same principles
 
 ## Acknowledgements
  - [Spinning Donut from Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html)
