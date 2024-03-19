@@ -17,3 +17,5 @@ I didn't invent the spinning donut, but [Andy Sloane](https://github.com/a1k0n/)
  - [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code)
  - [Z-buffering](https://en.wikipedia.org/wiki/Z-buffering)
  - [Unit Circle](https://www.mathsisfun.com/geometry/unit-circle.html)
+
+คลิปอธิบาย: https://youtu.be/qNbHpdYF28Q
